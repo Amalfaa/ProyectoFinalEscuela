@@ -1,0 +1,609 @@
+19:28:48  [main] 	Initializing Control Panel
+19:28:48  [main] 	Windows Version:  Enterprise  64-bit
+19:28:48  [main] 	XAMPP Version: 8.0.10
+19:28:48  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+19:28:48  [main] 	You are not running with administrator rights! This will work for
+19:28:48  [main] 	most application stuff but whenever you do something with services
+19:28:48  [main] 	there will be a security dialogue or things will break! So think 
+19:28:48  [main] 	about running this application with administrator rights!
+19:28:48  [main] 	XAMPP Installation Directory: "e:\xampp\"
+19:28:48  [main] 	Checking for prerequisites
+19:28:48  [main] 	All prerequisites found
+19:28:48  [main] 	Initializing Modules
+19:28:48  [mysql] 	Problem detected!
+19:28:48  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+19:28:48  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:28:48  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:28:48  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:28:48  [main] 	Starting Check-Timer
+19:28:48  [main] 	Control Panel Ready
+19:28:52  [Apache] 	Attempting to start Apache app...
+19:28:52  [Apache] 	Status change detected: running
+19:28:54  [mysql] 	Problem detected!
+19:28:54  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+19:28:54  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:28:54  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:28:54  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:28:54  [mysql] 	Attempting to start MySQL app...
+19:28:54  [mysql] 	Status change detected: running
+19:29:04  [mysql] 	Status change detected: stopped
+19:29:04  [mysql] 	Error: MySQL shutdown unexpectedly.
+19:29:04  [mysql] 	This may be due to a blocked port, missing dependencies, 
+19:29:04  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+19:29:04  [mysql] 	Press the Logs button to view error logs and check
+19:29:04  [mysql] 	the Windows Event Viewer for more clues
+19:29:04  [mysql] 	If you need more help, copy and post this
+19:29:04  [mysql] 	entire log window on the forums
+19:29:10  [mysql] 	Problem detected!
+19:29:10  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+19:29:10  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:29:10  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:29:10  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:29:10  [mysql] 	Attempting to start MySQL app...
+19:29:11  [mysql] 	Status change detected: running
+19:29:14  [mysql] 	Status change detected: stopped
+19:29:14  [mysql] 	Error: MySQL shutdown unexpectedly.
+19:29:14  [mysql] 	This may be due to a blocked port, missing dependencies, 
+19:29:14  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+19:29:14  [mysql] 	Press the Logs button to view error logs and check
+19:29:14  [mysql] 	the Windows Event Viewer for more clues
+19:29:14  [mysql] 	If you need more help, copy and post this
+19:29:14  [mysql] 	entire log window on the forums
+19:29:33  [mysql] 	Problem detected!
+19:29:33  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+19:29:33  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:29:33  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:29:33  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:29:33  [mysql] 	Attempting to start MySQL app...
+19:29:33  [mysql] 	Status change detected: running
+19:29:36  [mysql] 	Status change detected: stopped
+19:29:36  [mysql] 	Error: MySQL shutdown unexpectedly.
+19:29:36  [mysql] 	This may be due to a blocked port, missing dependencies, 
+19:29:36  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+19:29:36  [mysql] 	Press the Logs button to view error logs and check
+19:29:36  [mysql] 	the Windows Event Viewer for more clues
+19:29:36  [mysql] 	If you need more help, copy and post this
+19:29:36  [mysql] 	entire log window on the forums
+19:29:39  [mysql] 	Problem detected!
+19:29:39  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+19:29:39  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:29:39  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:29:39  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:29:39  [mysql] 	Attempting to start MySQL app...
+19:29:39  [mysql] 	Status change detected: running
+19:29:42  [mysql] 	Status change detected: stopped
+19:29:42  [mysql] 	Error: MySQL shutdown unexpectedly.
+19:29:42  [mysql] 	This may be due to a blocked port, missing dependencies, 
+19:29:42  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+19:29:42  [mysql] 	Press the Logs button to view error logs and check
+19:29:42  [mysql] 	the Windows Event Viewer for more clues
+19:29:42  [mysql] 	If you need more help, copy and post this
+19:29:42  [mysql] 	entire log window on the forums
+19:29:59  [main] 	Deinitializing Modules
+19:29:59  [main] 	Deinitializing Control Panel
+
+19:36:29  [main] 	Initializing Control Panel
+19:36:29  [main] 	Windows Version:  Enterprise  64-bit
+19:36:29  [main] 	XAMPP Version: 8.0.10
+19:36:29  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+19:36:29  [main] 	You are not running with administrator rights! This will work for
+19:36:29  [main] 	most application stuff but whenever you do something with services
+19:36:29  [main] 	there will be a security dialogue or things will break! So think 
+19:36:29  [main] 	about running this application with administrator rights!
+19:36:29  [main] 	XAMPP Installation Directory: "e:\xampp\"
+19:36:29  [main] 	Checking for prerequisites
+19:36:29  [main] 	All prerequisites found
+19:36:29  [main] 	Initializing Modules
+19:36:29  [mysql] 	Problem detected!
+19:36:29  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+19:36:29  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:36:29  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:36:29  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:36:29  [main] 	Starting Check-Timer
+19:36:29  [main] 	Control Panel Ready
+19:36:31  [Apache] 	Attempting to start Apache app...
+19:36:31  [Apache] 	Status change detected: running
+19:36:33  [mysql] 	Problem detected!
+19:36:33  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+19:36:33  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:36:33  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:36:33  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:36:33  [mysql] 	Attempting to start MySQL app...
+19:36:33  [mysql] 	Status change detected: running
+19:42:29  [main] 	Deinitializing Modules
+19:42:29  [main] 	Deinitializing Control Panel
+
+19:42:34  [main] 	Initializing Control Panel
+19:42:34  [main] 	Windows Version:  Enterprise  64-bit
+19:42:34  [main] 	XAMPP Version: 8.0.10
+19:42:34  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+19:42:34  [main] 	You are not running with administrator rights! This will work for
+19:42:34  [main] 	most application stuff but whenever you do something with services
+19:42:34  [main] 	there will be a security dialogue or things will break! So think 
+19:42:34  [main] 	about running this application with administrator rights!
+19:42:34  [main] 	XAMPP Installation Directory: "e:\xampp\"
+19:42:34  [main] 	Checking for prerequisites
+19:42:34  [main] 	All prerequisites found
+19:42:34  [main] 	Initializing Modules
+19:42:34  [Apache] 	XAMPP Apache is already running on port 80
+19:42:34  [Apache] 	XAMPP Apache is already running on port 443
+19:42:34  [mysql] 	Problem detected!
+19:42:34  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+19:42:34  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:42:34  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:42:34  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:42:34  [main] 	Starting Check-Timer
+19:42:34  [main] 	Control Panel Ready
+19:42:36  [mysql] 	Attempting to stop MySQL app...
+19:42:36  [mysql] 	Status change detected: stopped
+19:42:36  [Apache] 	Attempting to stop Apache (PID: 808)
+19:42:36  [Apache] 	Attempting to stop Apache (PID: 3064)
+19:42:37  [Apache] 	Status change detected: stopped
+19:42:38  [mysql] 	Problem detected!
+19:42:38  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+19:42:38  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:42:38  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:42:38  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:42:38  [mysql] 	Attempting to start MySQL app...
+19:42:38  [mysql] 	Status change detected: running
+19:42:39  [Apache] 	Attempting to start Apache app...
+19:42:39  [Apache] 	Status change detected: running
+19:45:04  [mysql] 	Attempting to stop MySQL app...
+19:45:04  [mysql] 	Status change detected: stopped
+19:45:06  [Apache] 	Attempting to stop Apache (PID: 4312)
+19:45:06  [Apache] 	Attempting to stop Apache (PID: 5040)
+19:45:06  [Apache] 	Status change detected: stopped
+19:45:11  [main] 	Deinitializing Modules
+19:45:11  [main] 	Deinitializing Control Panel
+
+19:36:24  [main] 	Initializing Control Panel
+19:36:24  [main] 	Windows Version:  Enterprise  64-bit
+19:36:24  [main] 	XAMPP Version: 8.0.10
+19:36:24  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+19:36:24  [main] 	You are not running with administrator rights! This will work for
+19:36:24  [main] 	most application stuff but whenever you do something with services
+19:36:24  [main] 	there will be a security dialogue or things will break! So think 
+19:36:24  [main] 	about running this application with administrator rights!
+19:36:24  [main] 	XAMPP Installation Directory: "e:\xampp\"
+19:36:24  [main] 	Checking for prerequisites
+19:36:24  [main] 	All prerequisites found
+19:36:24  [main] 	Initializing Modules
+19:36:24  [mysql] 	Problem detected!
+19:36:24  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+19:36:24  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:36:24  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:36:24  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:36:24  [main] 	Starting Check-Timer
+19:36:24  [main] 	Control Panel Ready
+19:36:26  [mysql] 	Attempting to stop MySQL app...
+19:36:26  [mysql] 	Status change detected: stopped
+19:36:31  [Apache] 	Status change detected: running
+19:36:33  [mysql] 	Status change detected: running
+19:42:36  [mysql] 	Status change detected: stopped
+19:42:37  [Apache] 	Status change detected: stopped
+19:42:37  [Apache] 	Error: Apache shutdown unexpectedly.
+19:42:37  [Apache] 	This may be due to a blocked port, missing dependencies, 
+19:42:37  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+19:42:37  [Apache] 	Press the Logs button to view error logs and check
+19:42:37  [Apache] 	the Windows Event Viewer for more clues
+19:42:37  [Apache] 	If you need more help, copy and post this
+19:42:37  [Apache] 	entire log window on the forums
+19:42:38  [mysql] 	Status change detected: running
+19:42:39  [Apache] 	Status change detected: running
+19:45:04  [mysql] 	Status change detected: stopped
+19:45:06  [Apache] 	Status change detected: stopped
+19:45:06  [Apache] 	Error: Apache shutdown unexpectedly.
+19:45:06  [Apache] 	This may be due to a blocked port, missing dependencies, 
+19:45:06  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+19:45:06  [Apache] 	Press the Logs button to view error logs and check
+19:45:06  [Apache] 	the Windows Event Viewer for more clues
+19:45:06  [Apache] 	If you need more help, copy and post this
+19:45:06  [Apache] 	entire log window on the forums
+19:45:22  [Apache] 	Attempting to start Apache app...
+19:45:22  [Apache] 	Status change detected: running
+19:45:25  [mysql] 	Problem detected!
+19:45:25  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+19:45:25  [mysql] 	MySQL WILL NOT start without the configured ports free!
+19:45:25  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+19:45:25  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+19:45:25  [mysql] 	Attempting to start MySQL app...
+19:45:25  [mysql] 	Status change detected: running
+19:46:55  [mysql] 	Attempting to stop MySQL app...
+19:46:56  [mysql] 	Status change detected: stopped
+19:46:56  [mysql] 	Attempting to start MySQL app...
+19:46:57  [mysql] 	Status change detected: running
+19:48:19  [mysql] 	Attempting to stop MySQL app...
+19:48:19  [mysql] 	Status change detected: stopped
+19:48:20  [Apache] 	Attempting to stop Apache (PID: 6164)
+19:48:20  [Apache] 	Attempting to stop Apache (PID: 10012)
+19:48:20  [Apache] 	Status change detected: stopped
+19:48:21  [main] 	Deinitializing Modules
+19:48:21  [main] 	Deinitializing Control Panel
+
+19:48:30  [main] 	Initializing Control Panel
+19:48:30  [main] 	Windows Version:  Enterprise  64-bit
+19:48:30  [main] 	XAMPP Version: 8.0.10
+19:48:30  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+19:48:30  [main] 	You are not running with administrator rights! This will work for
+19:48:30  [main] 	most application stuff but whenever you do something with services
+19:48:30  [main] 	there will be a security dialogue or things will break! So think 
+19:48:30  [main] 	about running this application with administrator rights!
+19:48:30  [main] 	XAMPP Installation Directory: "e:\xampp\"
+19:48:30  [main] 	Checking for prerequisites
+19:48:31  [main] 	All prerequisites found
+19:48:31  [main] 	Initializing Modules
+19:48:31  [main] 	Starting Check-Timer
+19:48:31  [main] 	Control Panel Ready
+19:48:32  [Apache] 	Attempting to start Apache app...
+19:48:32  [Apache] 	Status change detected: running
+19:48:33  [mysql] 	Attempting to start MySQL app...
+19:48:34  [mysql] 	Status change detected: running
+22:08:21  [Tomcat] 	Status change detected: running
+22:22:34  [Tomcat] 	Status change detected: stopped
+22:22:46  [Tomcat] 	Status change detected: running
+22:23:34  [Tomcat] 	Status change detected: stopped
+22:23:43  [Tomcat] 	Status change detected: running
+22:31:43  [Tomcat] 	Status change detected: stopped
+22:40:25  [Tomcat] 	Status change detected: running
+22:41:53  [Tomcat] 	Status change detected: stopped
+22:42:02  [Tomcat] 	Status change detected: running
+22:47:11  [Tomcat] 	Status change detected: stopped
+22:47:21  [Tomcat] 	Status change detected: running
+22:53:05  [Tomcat] 	Status change detected: stopped
+22:53:14  [Tomcat] 	Status change detected: running
+22:57:44  [Tomcat] 	Status change detected: stopped
+22:57:51  [mysql] 	Attempting to stop MySQL app...
+22:57:51  [mysql] 	Status change detected: stopped
+22:57:51  [Apache] 	Attempting to stop Apache (PID: 8060)
+22:57:51  [Apache] 	Attempting to stop Apache (PID: 9580)
+22:57:52  [Apache] 	Status change detected: stopped
+22:58:54  [main] 	Deinitializing Modules
+22:58:54  [main] 	Deinitializing Control Panel
+
+18:53:24  [main] 	Initializing Control Panel
+18:53:24  [main] 	Windows Version:  Enterprise  64-bit
+18:53:24  [main] 	XAMPP Version: 8.0.10
+18:53:24  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+18:53:24  [main] 	You are not running with administrator rights! This will work for
+18:53:24  [main] 	most application stuff but whenever you do something with services
+18:53:24  [main] 	there will be a security dialogue or things will break! So think 
+18:53:24  [main] 	about running this application with administrator rights!
+18:53:24  [main] 	XAMPP Installation Directory: "e:\xampp\"
+18:53:24  [main] 	Checking for prerequisites
+18:53:24  [main] 	All prerequisites found
+18:53:24  [main] 	Initializing Modules
+18:53:24  [mysql] 	Problem detected!
+18:53:24  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+18:53:24  [mysql] 	MySQL WILL NOT start without the configured ports free!
+18:53:24  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+18:53:24  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+18:53:24  [main] 	Starting Check-Timer
+18:53:24  [main] 	Control Panel Ready
+18:53:26  [mysql] 	Attempting to stop MySQL app...
+18:53:27  [mysql] 	Status change detected: stopped
+18:53:29  [mysql] 	Problem detected!
+18:53:29  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+18:53:29  [mysql] 	MySQL WILL NOT start without the configured ports free!
+18:53:29  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+18:53:29  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+18:53:29  [mysql] 	Attempting to start MySQL app...
+18:53:29  [mysql] 	Status change detected: running
+18:53:31  [Apache] 	Attempting to start Apache app...
+18:53:32  [Apache] 	Status change detected: running
+18:57:07  [mysql] 	Attempting to stop MySQL app...
+18:57:07  [mysql] 	Status change detected: stopped
+18:57:07  [Apache] 	Attempting to stop Apache (PID: 11604)
+18:57:07  [Apache] 	Attempting to stop Apache (PID: 4720)
+18:57:08  [Apache] 	Status change detected: stopped
+18:57:08  [mysql] 	Attempting to start MySQL app...
+18:57:09  [mysql] 	Status change detected: running
+18:57:09  [Apache] 	Problem detected!
+18:57:09  [Apache] 	Port 80 in use by "Unable to get info" with PID 11604!
+18:57:09  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:57:09  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:57:09  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:57:09  [Apache] 	Problem detected!
+18:57:09  [Apache] 	Port 443 in use by "Unable to get info" with PID 11604!
+18:57:09  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:57:09  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:57:09  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:57:09  [Apache] 	Attempting to start Apache app...
+18:57:11  [Apache] 	Status change detected: running
+18:57:12  [mysql] 	Status change detected: stopped
+18:57:12  [mysql] 	Error: MySQL shutdown unexpectedly.
+18:57:12  [mysql] 	This may be due to a blocked port, missing dependencies, 
+18:57:12  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+18:57:12  [mysql] 	Press the Logs button to view error logs and check
+18:57:12  [mysql] 	the Windows Event Viewer for more clues
+18:57:12  [mysql] 	If you need more help, copy and post this
+18:57:12  [mysql] 	entire log window on the forums
+18:57:24  [mysql] 	Attempting to start MySQL app...
+18:57:24  [mysql] 	Status change detected: running
+19:49:25  [Tomcat] 	Status change detected: running
+19:59:22  [Tomcat] 	Status change detected: stopped
+19:59:33  [Tomcat] 	Status change detected: running
+20:17:36  [Tomcat] 	Status change detected: stopped
+20:20:00  [Tomcat] 	Status change detected: running
+20:20:26  [Tomcat] 	Status change detected: stopped
+20:20:40  [Tomcat] 	Status change detected: running
+20:24:23  [Tomcat] 	Status change detected: stopped
+20:24:48  [Tomcat] 	Status change detected: running
+20:25:39  [Tomcat] 	Status change detected: stopped
+20:25:47  [Tomcat] 	Status change detected: running
+20:27:24  [Tomcat] 	Status change detected: stopped
+20:27:32  [Tomcat] 	Status change detected: running
+20:37:51  [Tomcat] 	Status change detected: stopped
+20:38:00  [Tomcat] 	Status change detected: running
+20:39:32  [Tomcat] 	Status change detected: stopped
+20:39:40  [Tomcat] 	Status change detected: running
+20:40:40  [Tomcat] 	Status change detected: stopped
+20:40:47  [Tomcat] 	Status change detected: running
+20:41:51  [Tomcat] 	Status change detected: stopped
+20:42:00  [Tomcat] 	Status change detected: running
+20:56:31  [Tomcat] 	Status change detected: stopped
+20:56:41  [Tomcat] 	Status change detected: running
+20:58:14  [Tomcat] 	Status change detected: stopped
+20:58:22  [Tomcat] 	Status change detected: running
+21:00:18  [Tomcat] 	Status change detected: stopped
+21:01:49  [Tomcat] 	Status change detected: running
+21:07:55  [Tomcat] 	Status change detected: stopped
+21:08:02  [Tomcat] 	Status change detected: running
+21:09:06  [Tomcat] 	Status change detected: stopped
+21:09:14  [Tomcat] 	Status change detected: running
+21:12:41  [Tomcat] 	Status change detected: stopped
+21:12:49  [Tomcat] 	Status change detected: running
+21:16:51  [Tomcat] 	Status change detected: stopped
+21:16:59  [Tomcat] 	Status change detected: running
+21:20:14  [Tomcat] 	Status change detected: stopped
+21:20:22  [Tomcat] 	Status change detected: running
+21:20:54  [Tomcat] 	Status change detected: stopped
+21:21:03  [Tomcat] 	Status change detected: running
+21:22:00  [Tomcat] 	Status change detected: stopped
+21:22:08  [Tomcat] 	Status change detected: running
+21:25:47  [Tomcat] 	Status change detected: stopped
+21:25:57  [Tomcat] 	Status change detected: running
+23:01:36  [Tomcat] 	Status change detected: stopped
+23:01:56  [Tomcat] 	Status change detected: running
+23:02:50  [Tomcat] 	Status change detected: stopped
+23:02:58  [Tomcat] 	Status change detected: running
+23:05:31  [mysql] 	Attempting to stop MySQL app...
+23:05:31  [mysql] 	Status change detected: stopped
+23:05:31  [Apache] 	Attempting to stop Apache (PID: 10476)
+23:05:31  [Apache] 	Attempting to stop Apache (PID: 22040)
+23:05:32  [Apache] 	Status change detected: stopped
+23:05:39  [Tomcat] 	Status change detected: stopped
+23:05:51  [main] 	Deinitializing Modules
+23:05:51  [main] 	Deinitializing Control Panel
+
+18:52:02  [main] 	Initializing Control Panel
+18:52:02  [main] 	Windows Version:  Enterprise  64-bit
+18:52:02  [main] 	XAMPP Version: 8.0.10
+18:52:02  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+18:52:02  [main] 	You are not running with administrator rights! This will work for
+18:52:02  [main] 	most application stuff but whenever you do something with services
+18:52:02  [main] 	there will be a security dialogue or things will break! So think 
+18:52:02  [main] 	about running this application with administrator rights!
+18:52:02  [main] 	XAMPP Installation Directory: "e:\xampp\"
+18:52:02  [main] 	Checking for prerequisites
+18:52:02  [main] 	All prerequisites found
+18:52:02  [main] 	Initializing Modules
+18:52:02  [main] 	Starting Check-Timer
+18:52:02  [main] 	Control Panel Ready
+18:52:05  [Apache] 	Attempting to start Apache app...
+18:52:06  [Apache] 	Status change detected: running
+18:52:09  [mysql] 	Attempting to start MySQL app...
+18:52:09  [mysql] 	Status change detected: running
+21:05:25  [Tomcat] 	Status change detected: running
+21:07:05  [Tomcat] 	Status change detected: stopped
+21:07:15  [Tomcat] 	Status change detected: running
+21:14:17  [Tomcat] 	Status change detected: stopped
+21:14:28  [Tomcat] 	Status change detected: running
+21:20:21  [Tomcat] 	Status change detected: stopped
+21:20:59  [Tomcat] 	Status change detected: running
+21:24:11  [Tomcat] 	Status change detected: stopped
+21:24:19  [Tomcat] 	Status change detected: running
+21:26:38  [Tomcat] 	Status change detected: stopped
+21:26:47  [Tomcat] 	Status change detected: running
+21:27:34  [Tomcat] 	Status change detected: stopped
+21:27:43  [Tomcat] 	Status change detected: running
+21:28:14  [Tomcat] 	Status change detected: stopped
+21:28:24  [Tomcat] 	Status change detected: running
+21:29:34  [Tomcat] 	Status change detected: stopped
+21:29:42  [Tomcat] 	Status change detected: running
+21:29:54  [Tomcat] 	Status change detected: stopped
+21:30:02  [Tomcat] 	Status change detected: running
+21:31:09  [Tomcat] 	Status change detected: stopped
+21:31:18  [Tomcat] 	Status change detected: running
+21:34:24  [Tomcat] 	Status change detected: stopped
+21:34:33  [Tomcat] 	Status change detected: running
+21:35:04  [Tomcat] 	Status change detected: stopped
+21:35:16  [Tomcat] 	Status change detected: running
+21:35:46  [Tomcat] 	Status change detected: stopped
+21:38:21  [Tomcat] 	Status change detected: running
+21:44:56  [Tomcat] 	Status change detected: stopped
+22:00:19  [Tomcat] 	Status change detected: running
+22:01:46  [Tomcat] 	Status change detected: stopped
+22:01:55  [Tomcat] 	Status change detected: running
+22:03:53  [Tomcat] 	Status change detected: stopped
+22:07:29  [Tomcat] 	Status change detected: running
+22:29:26  [Tomcat] 	Status change detected: stopped
+22:29:39  [main] 	Deinitializing Modules
+22:29:39  [main] 	Deinitializing Control Panel
+
+18:57:19  [main] 	Initializing Control Panel
+18:57:19  [main] 	Windows Version:  Enterprise  64-bit
+18:57:19  [main] 	XAMPP Version: 8.0.10
+18:57:19  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+18:57:19  [main] 	You are not running with administrator rights! This will work for
+18:57:19  [main] 	most application stuff but whenever you do something with services
+18:57:19  [main] 	there will be a security dialogue or things will break! So think 
+18:57:19  [main] 	about running this application with administrator rights!
+18:57:19  [main] 	XAMPP Installation Directory: "e:\xampp\"
+18:57:19  [main] 	Checking for prerequisites
+18:57:19  [main] 	All prerequisites found
+18:57:19  [main] 	Initializing Modules
+18:57:19  [mysql] 	Problem detected!
+18:57:19  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+18:57:19  [mysql] 	MySQL WILL NOT start without the configured ports free!
+18:57:19  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+18:57:19  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+18:57:19  [main] 	Starting Check-Timer
+18:57:19  [main] 	Control Panel Ready
+18:57:21  [Apache] 	Attempting to start Apache app...
+18:57:21  [Apache] 	Status change detected: running
+18:57:26  [mysql] 	Problem detected!
+18:57:26  [mysql] 	Port 3306 in use by ""C:\Program Files\MariaDB 10.6\bin\mysqld.exe" "--defaults-file=C:\Program Files\MariaDB 10.6\data\my.ini" "MariaDB""!
+18:57:26  [mysql] 	MySQL WILL NOT start without the configured ports free!
+18:57:26  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+18:57:26  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+18:57:26  [mysql] 	Attempting to start MySQL app...
+18:57:27  [mysql] 	Status change detected: running
+19:00:50  [Tomcat] 	Status change detected: running
+19:12:01  [Tomcat] 	Status change detected: stopped
+19:12:10  [Tomcat] 	Status change detected: running
+19:14:22  [Tomcat] 	Status change detected: stopped
+19:15:02  [Tomcat] 	Status change detected: running
+19:18:34  [Tomcat] 	Status change detected: stopped
+19:18:43  [Tomcat] 	Status change detected: running
+19:21:27  [Tomcat] 	Status change detected: stopped
+19:21:35  [Tomcat] 	Status change detected: running
+19:30:08  [Tomcat] 	Status change detected: stopped
+19:34:16  [Tomcat] 	Status change detected: running
+19:34:56  [Tomcat] 	Status change detected: stopped
+19:35:22  [Tomcat] 	Status change detected: running
+19:36:30  [Tomcat] 	Status change detected: stopped
+19:48:57  [Tomcat] 	Status change detected: running
+19:53:51  [Tomcat] 	Status change detected: stopped
+19:54:50  [Tomcat] 	Status change detected: running
+20:01:18  [Tomcat] 	Status change detected: stopped
+20:02:01  [Tomcat] 	Status change detected: running
+20:20:21  [Tomcat] 	Status change detected: stopped
+20:20:29  [Tomcat] 	Status change detected: running
+20:25:46  [Tomcat] 	Status change detected: stopped
+20:25:54  [Tomcat] 	Status change detected: running
+20:27:54  [Tomcat] 	Status change detected: stopped
+20:28:01  [Tomcat] 	Status change detected: running
+20:39:49  [Tomcat] 	Status change detected: stopped
+20:39:55  [Tomcat] 	Status change detected: running
+20:59:22  [Tomcat] 	Status change detected: stopped
+21:01:37  [Tomcat] 	Status change detected: running
+21:03:37  [Tomcat] 	Status change detected: stopped
+21:03:45  [Tomcat] 	Status change detected: running
+22:16:36  [Tomcat] 	Status change detected: stopped
+23:09:56  [Tomcat] 	Status change detected: running
+23:09:59  [Tomcat] 	Status change detected: stopped
+23:10:11  [mysql] 	Attempting to stop MySQL app...
+23:10:11  [Apache] 	Attempting to stop Apache (PID: 7844)
+23:10:11  [Apache] 	Attempting to stop Apache (PID: 11848)
+23:10:11  [Apache] 	Status change detected: stopped
+23:10:11  [mysql] 	Status change detected: stopped
+23:10:23  [main] 	Deinitializing Modules
+23:10:23  [main] 	Deinitializing Control Panel
+
+20:58:58  [main] 	Initializing Control Panel
+20:58:58  [main] 	Windows Version:  Enterprise  64-bit
+20:58:58  [main] 	XAMPP Version: 8.0.10
+20:58:58  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+20:58:58  [main] 	You are not running with administrator rights! This will work for
+20:58:58  [main] 	most application stuff but whenever you do something with services
+20:58:58  [main] 	there will be a security dialogue or things will break! So think 
+20:58:58  [main] 	about running this application with administrator rights!
+20:58:58  [main] 	XAMPP Installation Directory: "e:\xampp\"
+20:58:58  [main] 	Checking for prerequisites
+20:59:05  [main] 	All prerequisites found
+20:59:05  [main] 	Initializing Modules
+20:59:05  [main] 	Starting Check-Timer
+20:59:05  [main] 	Control Panel Ready
+21:03:03  [Apache] 	Attempting to start Apache app...
+21:03:03  [Apache] 	Status change detected: running
+21:03:08  [mysql] 	Attempting to start MySQL app...
+21:03:08  [mysql] 	Status change detected: running
+21:04:03  [Tomcat] 	Status change detected: running
+21:13:17  [Tomcat] 	Status change detected: stopped
+21:13:44  [Tomcat] 	Status change detected: running
+21:16:52  [Tomcat] 	Status change detected: stopped
+21:16:59  [Tomcat] 	Status change detected: running
+21:18:32  [Tomcat] 	Status change detected: stopped
+21:18:39  [Tomcat] 	Status change detected: running
+21:19:49  [Tomcat] 	Status change detected: stopped
+21:20:02  [Tomcat] 	Status change detected: running
+21:27:53  [Tomcat] 	Status change detected: stopped
+21:28:03  [Tomcat] 	Status change detected: running
+21:32:24  [Tomcat] 	Status change detected: stopped
+21:32:53  [Tomcat] 	Status change detected: running
+21:33:55  [Tomcat] 	Status change detected: stopped
+21:34:01  [mysql] 	Attempting to stop MySQL app...
+21:34:02  [mysql] 	Status change detected: stopped
+21:34:02  [Apache] 	Attempting to stop Apache (PID: 4424)
+21:34:02  [Apache] 	Attempting to stop Apache (PID: 4596)
+21:34:02  [Apache] 	Status change detected: stopped
+21:34:04  [main] 	Deinitializing Modules
+21:34:04  [main] 	Deinitializing Control Panel
+
+18:48:47  [main] 	Initializing Control Panel
+18:48:47  [main] 	Windows Version:  Enterprise  64-bit
+18:48:47  [main] 	XAMPP Version: 8.0.10
+18:48:47  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+18:48:47  [main] 	You are not running with administrator rights! This will work for
+18:48:47  [main] 	most application stuff but whenever you do something with services
+18:48:47  [main] 	there will be a security dialogue or things will break! So think 
+18:48:47  [main] 	about running this application with administrator rights!
+18:48:47  [main] 	XAMPP Installation Directory: "e:\xampp\"
+18:48:47  [main] 	Checking for prerequisites
+18:48:47  [main] 	All prerequisites found
+18:48:47  [main] 	Initializing Modules
+18:48:47  [main] 	Starting Check-Timer
+18:48:47  [main] 	Control Panel Ready
+18:48:50  [Apache] 	Attempting to start Apache app...
+18:48:50  [Apache] 	Status change detected: running
+18:48:53  [mysql] 	Attempting to start MySQL app...
+18:48:54  [mysql] 	Status change detected: running
+18:50:56  [Tomcat] 	Status change detected: running
+18:56:06  [Tomcat] 	Status change detected: stopped
+18:56:12  [Tomcat] 	Status change detected: running
+18:57:14  [Tomcat] 	Status change detected: stopped
+18:58:58  [Tomcat] 	Status change detected: running
+19:00:17  [Tomcat] 	Status change detected: stopped
+19:00:29  [Tomcat] 	Status change detected: running
+19:02:15  [Tomcat] 	Status change detected: stopped
+19:02:22  [Tomcat] 	Status change detected: running
+19:03:02  [Tomcat] 	Status change detected: stopped
+19:03:09  [Tomcat] 	Status change detected: running
+19:03:56  [Tomcat] 	Status change detected: stopped
+19:04:03  [Tomcat] 	Status change detected: running
+19:05:25  [Tomcat] 	Status change detected: stopped
+19:05:34  [Tomcat] 	Status change detected: running
+19:05:49  [Tomcat] 	Status change detected: stopped
+19:05:58  [Tomcat] 	Status change detected: running
+19:08:17  [Tomcat] 	Status change detected: stopped
+19:08:24  [Tomcat] 	Status change detected: running
+19:09:34  [Tomcat] 	Status change detected: stopped
+19:09:42  [Tomcat] 	Status change detected: running
+19:11:30  [Tomcat] 	Status change detected: stopped
+19:11:38  [Tomcat] 	Status change detected: running
+19:14:10  [Tomcat] 	Status change detected: stopped
+19:14:23  [Tomcat] 	Status change detected: running
+19:15:31  [Tomcat] 	Status change detected: stopped
+19:15:40  [Tomcat] 	Status change detected: running
+19:22:02  [Tomcat] 	Status change detected: stopped
+19:22:14  [Tomcat] 	Status change detected: running
+19:24:57  [Tomcat] 	Status change detected: stopped
+19:25:04  [Tomcat] 	Status change detected: running
+19:31:31  [Tomcat] 	Status change detected: stopped
+19:31:41  [Tomcat] 	Status change detected: running
+19:44:42  [Tomcat] 	Status change detected: stopped
+19:44:52  [Tomcat] 	Status change detected: running
+19:45:14  [Tomcat] 	Status change detected: stopped
+19:45:21  [Tomcat] 	Status change detected: running
+19:45:46  [Tomcat] 	Status change detected: stopped
+19:45:54  [Tomcat] 	Status change detected: running
+23:04:59  [mysql] 	Attempting to stop MySQL app...
+23:05:00  [mysql] 	Status change detected: stopped
+23:05:00  [Apache] 	Attempting to stop Apache (PID: 2080)
+23:05:00  [Apache] 	Attempting to stop Apache (PID: 8844)
+23:05:01  [Apache] 	Status change detected: stopped
+23:05:01  [Tomcat] 	Attempting to stop Tomcat
+23:05:10  [Tomcat] 	Attempting to stop Tomcat
+23:05:12  [main] 	Deinitializing Modules
+23:05:12  [main] 	Deinitializing Control Panel
+

@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head> 
+    <title>Getting Started: Serving Web Content</title> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <form action="#" th:action="@{/registro}" th:object="${usuario}" method="post">
+        <table border="1">
+            <tr>
+                <td><label>Usuario</label></td>
+                <td><input type="text" th:field="*{Username}" /></td>
+            </tr>
+            <tr>
+                <td><label>Contraseña</label></td>
+                <td><input type="password" id="pwd" name="pwd" th:field="*{Password}" />
+            </tr>
+            <tr>
+                <td><label>DNI</label></td>
+                <td><input type="number" th:field="*{Dni}" /></td>
+            </tr>
+            <tr>
+                <td><label>Nombre</label></td>
+                <td><input type="text" th:field="*{Nombre}" /></td>
+            </tr>
+            <tr>
+                <td><label>Apellido</label></td>
+                <td><input type="text" th:field="*{Apellido}" /></td>
+            </tr>
+            <tr>
+                <td><label>Rol</label></td>
+                <td><input type="text" th:field="*{Rol}" /></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Guardar" /></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

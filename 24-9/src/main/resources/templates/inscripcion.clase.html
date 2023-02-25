@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head> 
+    <title>Getting Started: Serving Web Content</title> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <form action="#" th:action="@{/inscripcion}" th:object="${inscripcion}" method="post">
+        <select th:field="*{clase}"> 
+          <option th:each="clase : ${clases}" th:value="${clase.id}" th:text="${clase.ubicacion}"> Wireframe</option>
+        </select>
+        <p><input type="submit" value="Enviar"></p>
+    </form>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head> 
+    <title>Getting Started: Serving Web Content</title> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <form action="#" th:action="@{/nuevaclase}" th:object="${clase}" method="post">
+        <table border="1">
+            <tr>
+                <td><label>Fecha</label></td>
+                <td><input type="date" th:field="*{Fecha}" /></td>
+            </tr>
+            <tr>
+                <td><label>Ubicacion</label></td>
+                <td><input type="text" th:field="*{Ubicacion}" /></td>
+            </tr>
+            <tr>
+                <td><label>Hora</label></td>
+                <td><input type="time" th:field="*{Hora}" /></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Guardar" /></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
